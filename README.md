@@ -1,0 +1,2 @@
+# somecode
+Practice with Github
